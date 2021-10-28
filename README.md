@@ -3,3 +3,4 @@ This is a basic calculator made for personal use just to play with kotlin.This c
 This is made by a small group to learn android devlopment.
 Implemented different layout in xml files.
 implemented multiple clicks
+The app is written in kotlin.
