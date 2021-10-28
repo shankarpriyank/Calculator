@@ -11,4 +11,5 @@ All the edge cases are handled properly.
 
 
 # How to contribute
-Fork the repository
+-Fork the repository
+Clone into the local system
