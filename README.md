@@ -11,3 +11,4 @@ All the edge cases are handled properly.
 
 
 # How to contribute
+Fork the repository
