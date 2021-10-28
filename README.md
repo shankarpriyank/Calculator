@@ -4,3 +4,4 @@ This is made by a small group to learn android devlopment.
 Implemented different layout in xml files.
 implemented multiple clicks
 The app is written in kotlin.
+All the edge cases are handled properly.
