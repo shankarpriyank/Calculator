@@ -24,3 +24,4 @@ All the edge cases are handled properly.
 
 
 # Requirements
+An Android Application that Converts Text to Handwriting that looks and feels the same as if the text is written by hand.
