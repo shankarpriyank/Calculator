@@ -11,6 +11,7 @@ All the edge cases are handled properly.
 
 
 # How to contribute
--Fork the repository
--Clone into the local system
--You can contribute to the readme without cloning to your local system
+-Fork the repository  
+-Clone into the local system  
+-You can contribute to the readme without cloning to your local system  
+-The repository is open for changes but let's focus on changing the UI. 
