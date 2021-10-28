@@ -15,4 +15,7 @@ All the edge cases are handled properly.
 -Clone into the local system  
 -You can contribute to the readme without cloning to your local system  
 -The repository is open for changes but let's focus on changing the UI.  
--You can ping the maintainers if any issue.
+-You can ping the maintainers if any issues arises.
+
+# Technology used
+-Android Studio
