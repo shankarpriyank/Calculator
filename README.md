@@ -20,3 +20,4 @@ All the edge cases are handled properly.
 # Technology used
 -Android Studio
 -Kotlin
+-xml
