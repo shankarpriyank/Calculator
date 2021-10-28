@@ -18,6 +18,9 @@ All the edge cases are handled properly.
 -You can ping the maintainers if any issues arises.
 
 # Technology used
--Android Studio
--Kotlin
--xml
+-Android Studio  
+-Kotlin  
+-xml  
+
+
+# Requirements
