@@ -5,3 +5,9 @@ Implemented different layout in xml files.
 implemented multiple clicks
 The app is written in kotlin.
 All the edge cases are handled properly.
+
+
+
+
+
+# How to contribute
