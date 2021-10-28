@@ -20,8 +20,4 @@ All the edge cases are handled properly.
 # Technology used
 -Android Studio  
 -Kotlin  
--XML 
-
-
-# Requirements
-An Android Application that Converts Text to Handwriting that looks and feels the same as if the text is written by hand.
+-XML
