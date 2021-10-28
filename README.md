@@ -14,4 +14,5 @@ All the edge cases are handled properly.
 -Fork the repository  
 -Clone into the local system  
 -You can contribute to the readme without cloning to your local system  
--The repository is open for changes but let's focus on changing the UI. 
+-The repository is open for changes but let's focus on changing the UI.  
+-You can ping the maintainers if any issue.
