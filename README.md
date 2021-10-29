@@ -21,3 +21,6 @@ All the edge cases are handled properly.
 -Android Studio  
 -Kotlin  
 -XML
+
+
+# Requirements
